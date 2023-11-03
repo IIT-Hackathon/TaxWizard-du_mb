@@ -10,13 +10,15 @@
 
 ### Application Endpoints:
 
-Prod Frontened - 
-Prod Backend - 
+- Prod Frontened - 
+- Prod Backend - 
 
-Staging Frontend - 
-Staging Backend - [api-stage.redevops.store](https://api-stage.redevops.store)
+- Staging Frontend - 
+- Staging Backend - [api-stage.redevops.store](https://api-stage.redevops.store)
 
 Other endpoints:
 
-Wazuh Server - https://ec2-3-144-97-45.us-east-2.compute.amazonaws.com
-SonarQube - http://ec2-18-191-39-196.us-east-2.compute.amazonaws.com/
+- Wazuh Server - https://ec2-3-144-97-45.us-east-2.compute.amazonaws.com
+- SonarQube - http://ec2-18-191-39-196.us-east-2.compute.amazonaws.com
+- Prometheus - http://ec2-18-227-161-47.us-east-2.compute.amazonaws.com:9090/
+- Grafana - http://ec2-18-227-161-47.us-east-2.compute.amazonaws.com:3000
