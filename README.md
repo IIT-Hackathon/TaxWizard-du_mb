@@ -1,4 +1,4 @@
-All of the repositories are under [this organization](https://github.com/IIT-Hackathon)
+### All of the repositories are under [this organization](https://github.com/IIT-Hackathon)
 
 [List of repositories](https://github.com/orgs/IIT-Hackathon/repositories):
 
@@ -6,3 +6,17 @@ All of the repositories are under [this organization](https://github.com/IIT-Hac
 2. Backend        - [github.com/IIT-Hackathon/backend](https://github.com/IIT-Hackathon/backend)
 3. Deployment     - [github.com/IIT-Hackathon/deployments](https://github.com/IIT-Hackathon/deployments)
 4. Infrastructure - [github.com/IIT-Hackathon/infra](https://github.com/IIT-Hackathon/infra)
+
+
+### Application Endpoints:
+
+Prod Frontened - 
+Prod Backend - 
+
+Staging Frontend - 
+Staging Backend - 
+
+Other endpoints:
+
+Wazuh Server - https://ec2-3-144-97-45.us-east-2.compute.amazonaws.com
+SonarQube - http://ec2-18-191-39-196.us-east-2.compute.amazonaws.com/
