@@ -14,7 +14,7 @@ Prod Frontened -
 Prod Backend - 
 
 Staging Frontend - 
-Staging Backend - 
+Staging Backend - [api-stage.redevops.store](https://api-stage.redevops.store)
 
 Other endpoints:
 
