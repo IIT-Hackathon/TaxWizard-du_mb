@@ -10,10 +10,10 @@
 
 ### Application Endpoints:
 
-- Prod Frontened - 
-- Prod Backend - 
+- Prod Frontened - [redevops.store](https://redevops.store)
+- Prod Backend - [api.redevops.store](https://api.redevops.store)
 
-- Staging Frontend - 
+- Staging Frontend - [stage.redevops.store](https://stage.redevops.store)
 - Staging Backend - [api-stage.redevops.store](https://api-stage.redevops.store)
 
 Other endpoints:
