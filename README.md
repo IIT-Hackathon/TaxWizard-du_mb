@@ -10,7 +10,7 @@
 
 ### Application Endpoints:
 
-- Prod Frontened - [redevops.store](https://redevops.store)
+- Prod Frontened - [redevops.store](https://redevops.store) -  [until, cloudflare works](http://ec2-18-221-233-23.us-east-2.compute.amazonaws.com)
 - Prod Backend - [api.redevops.store](https://api.redevops.store)
 
 - Staging Frontend - [stage.redevops.store](https://stage.redevops.store)
