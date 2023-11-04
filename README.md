@@ -18,7 +18,7 @@
 
 Other endpoints:
 
-- Wazuh Server - https://wazuh.redevops.store
-- SonarQube - https://sq.redevops.store
+- Wazuh Server - https://wazuh.redevops.store - [in case, cloudflare is interrupted](https://ec2-3-144-97-45.us-east-2.compute.amazonaws.com)
+- SonarQube - https://sq.redevops.store - 
 - Prometheus - http://ec2-18-227-161-47.us-east-2.compute.amazonaws.com:9090/
 - Grafana - http://ec2-18-227-161-47.us-east-2.compute.amazonaws.com:3000
